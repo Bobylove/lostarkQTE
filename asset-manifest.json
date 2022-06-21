@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lostarkQTE/static/css/main.edb89e44.css",
-    "main.js": "/lostarkQTE/static/js/main.feaa9bed.js",
+    "main.css": "/lostarkQTE/static/css/main.e1c7e6ab.css",
+    "main.js": "/lostarkQTE/static/js/main.159869dd.js",
     "static/media/vykas.jpg": "/lostarkQTE/static/media/vykas.4b3c34334a02be5fbade.jpg",
     "static/media/seto.jpg": "/lostarkQTE/static/media/seto.546e72864a77160bbb6b.jpg",
     "static/media/star.png": "/lostarkQTE/static/media/star.77396f5de4c0aab5333b.png",
@@ -10,11 +10,11 @@
     "static/media/keysound.mp3": "/lostarkQTE/static/media/keysound.f2019d97970dd34f88cb.mp3",
     "static/media/failsound.mp3": "/lostarkQTE/static/media/failsound.3198670a11bb9585ad9a.mp3",
     "index.html": "/lostarkQTE/index.html",
-    "main.edb89e44.css.map": "/lostarkQTE/static/css/main.edb89e44.css.map",
-    "main.feaa9bed.js.map": "/lostarkQTE/static/js/main.feaa9bed.js.map"
+    "main.e1c7e6ab.css.map": "/lostarkQTE/static/css/main.e1c7e6ab.css.map",
+    "main.159869dd.js.map": "/lostarkQTE/static/js/main.159869dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.edb89e44.css",
-    "static/js/main.feaa9bed.js"
+    "static/css/main.e1c7e6ab.css",
+    "static/js/main.159869dd.js"
   ]
 }
